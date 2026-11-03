@@ -145,7 +145,7 @@ The operation of the circuit can be explained in the following steps:
 
 
 
-## 12. HARDWARE IMPLEMENTATION
+## 10. HARDWARE IMPLEMENTATION
 
 The circuit is constructed using a general-purpose PCB.
 
@@ -164,7 +164,7 @@ The circuit is constructed using a general-purpose PCB.
 
 The components are arranged on the PCB to make the circuit compact and easy to operate.
 
-## 13. RESULTS AND OBSERVATIONS
+## 11. RESULTS AND OBSERVATIONS
 
 The touch-based sound generator demonstrates the generation of audible sound using an NE555 timer IC.
 
@@ -184,7 +184,7 @@ When the circuit is powered ON and the touch input is activated, the circuit pro
 
 The NE555 timer-based touch sound generator was designed and assembled successfully. The circuit demonstrates touch-controlled sound generation using basic electronic components.
 
-## 14. APPLICATIONS
+## 12. APPLICATIONS
 
 1. Electronic sound generators.
 2. Touch-operated electronic toys.
@@ -194,7 +194,7 @@ The NE555 timer-based touch sound generator was designed and assembled successfu
 6. Hobby electronics applications.
 7. Simple sound-producing devices.
 
-## 15. ADVANTAGES
+## 13. ADVANTAGES
 
 1. Simple circuit design.
 2. Low-cost components.
@@ -204,7 +204,7 @@ The NE555 timer-based touch sound generator was designed and assembled successfu
 6. Low component count.
 7. Useful for understanding timer IC applications.
 
-## 16. LIMITATIONS
+## 14. LIMITATIONS
 
 1. Limited sound-generation capabilities.
 2. Sound quality depends on the speaker.
@@ -212,7 +212,7 @@ The NE555 timer-based touch sound generator was designed and assembled successfu
 4. Touch sensitivity may vary.
 5. The circuit cannot generate complex musical sounds.
 
-## 17. FUTURE SCOPE
+## 15. FUTURE SCOPE
 
 1. Improve touch sensitivity.
 2. Add adjustable sound frequency.
@@ -223,7 +223,7 @@ The NE555 timer-based touch sound generator was designed and assembled successfu
 7. Develop a protective enclosure.
 8. Improve the overall sound quality.
 
-## 18. CONCLUSION
+## 16. CONCLUSION
 
 The Touch-Based Sound Generator using the NE555 timer IC is a simple and useful electronics project.
 
@@ -235,7 +235,7 @@ This project provides practical knowledge of timer ICs, oscillators, resistors, 
 
 The project successfully demonstrates how basic electronic components can be used to develop a simple touch-operated sound-generating device.
 
-## 19. REFERENCES
+## 17. REFERENCES
 
 1. NE555 Timer IC Datasheet.
 2. Basic Electronic Circuit Design.
@@ -244,7 +244,7 @@ The project successfully demonstrates how basic electronic components can be use
 5. YouTube Reference: Techies MS.
 6. https://youtube.com/shorts/rLz73UmbYx8
 
-## 20. PROJECT DETAILS
+## 28. PROJECT DETAILS
 
 Project Title: 555 Timer IC Based Touch Sound Generator
 
