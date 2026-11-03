@@ -107,7 +107,7 @@ It provides practical knowledge of analog electronics and oscillator circuit des
 ## 7. CIRCUIT DIAGRAM
 
 
-
+images/555_touch_sensitive_sound_circuit.jpg
 
 ## 8. WORKING PRINCIPLE
 
@@ -244,7 +244,7 @@ The project successfully demonstrates how basic electronic components can be use
 5. YouTube Reference: Techies MS.
 6. https://youtube.com/shorts/rLz73UmbYx8
 
-## 28. PROJECT DETAILS
+## 18. PROJECT DETAILS
 
 Project Title: 555 Timer IC Based Touch Sound Generator
 
