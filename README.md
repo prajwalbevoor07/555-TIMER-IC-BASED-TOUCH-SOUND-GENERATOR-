@@ -107,7 +107,6 @@ It provides practical knowledge of analog electronics and oscillator circuit des
 ## 7. CIRCUIT DIAGRAM
 
 
-images/555_touch_sensitive_sound_circuit.jpg
 
 ## 8. WORKING PRINCIPLE
 
