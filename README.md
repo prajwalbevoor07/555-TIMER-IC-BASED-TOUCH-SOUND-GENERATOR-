@@ -106,7 +106,7 @@ It provides practical knowledge of analog electronics and oscillator circuit des
 
 ## 7. CIRCUIT DIAGRAM
 
-
+![image alt](https://github.com/prajwalbevoor07/555-TIMER-IC-BASED-TOUCH-SOUND-GENERATOR-/blob/9c67ec98290edba59e86d911c0f93a7857167071/555_touch_sensitive_sound_circuit.jpg)
 
 ## 8. WORKING PRINCIPLE
 
